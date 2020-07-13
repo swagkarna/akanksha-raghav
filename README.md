@@ -5,8 +5,16 @@ Hi!👋<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
  📫Connect me here:<br />
  <br />
-[![linkedin badge](https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin)](https://www.linkedin.com/in/akanksha-raghav-386938188/)
-[![twitter badge](https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter)](https://twitter.com/AkankshaRaghav9)
-[![medium badge](https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium)](https://medium.com/@akanksharaghav)
+ <p>
+  <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
+    <img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://twitter.com/AkankshaRaghav9">
+    <img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
+  </a>
+ <a href="https://medium.com/@akanksharaghav">
+    <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
+  </a>
+</p>
 
 Cheers!
