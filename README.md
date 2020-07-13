@@ -1,5 +1,5 @@
 <p align="right">
-  ![Alt text](https://i.imgur.com/w4pKOQi.jpg)
+<img src = "https://i.imgur.com/w4pKOQi.jpg" width="100" height="100">
 </p>
 
 Hi!👋<br />
