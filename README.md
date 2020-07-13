@@ -1,7 +1,7 @@
 <p align="right">
-<img src = "https://i.imgur.com/w4pKOQi.jpg" width="100" height="100">
+<img src = "https://i.imgur.com/w4pKOQi.jpg" width="300" height="300">
 </p>
-
+<p align ="left">
 Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
@@ -13,3 +13,4 @@ Hi!👋<br />
 [![medium badge](https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium)](https://medium.com/@akanksharaghav)
 
 Cheers!
+</p>
