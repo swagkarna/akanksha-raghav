@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="C:\Users\DELL\Downloads\myAvatar.png" width="350" title="Hello">
+</p>
+
 Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
