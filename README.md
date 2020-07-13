@@ -9,6 +9,4 @@ Hi!👋<br />
 [![medium badge](https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium)](https://medium.com/@akanksharaghav)
 
 Cheers!
-<p align ="center">
-<img src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-</p>
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
