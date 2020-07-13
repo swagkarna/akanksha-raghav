@@ -1,3 +1,4 @@
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
@@ -9,4 +10,3 @@ Hi!👋<br />
 [![medium badge](https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium)](https://medium.com/@akanksharaghav)
 
 Cheers!
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
