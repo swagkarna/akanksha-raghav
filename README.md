@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="C:\Users\DELL\Downloads\myAvatar.png" width="350" title="Hello">
+  ![Alt text](https://i.imgur.com/w4pKOQi.jpg)
 </p>
 
 Hi!👋<br />
