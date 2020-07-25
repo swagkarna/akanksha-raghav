@@ -3,7 +3,7 @@ Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
- 📫Connect me here:<br />
+ 📫Connect with me here:<br />
  <br />
  <p>
   <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
